@@ -1,0 +1,12 @@
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\bin\Debug\Northwind.mdf
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\bin\Debug\Northwind_log.ldf
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\bin\Debug\Sales_Donny.exe.config
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\bin\Debug\Sales_Donny.exe
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\bin\Debug\Sales_Donny.pdb
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.csprojAssemblyReference.cache
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.Form1.resources
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.Properties.Resources.resources
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.csproj.GenerateResource.cache
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.csproj.CoreCompileInputs.cache
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.exe
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Sales_Donny\Sales_Donny\obj\Debug\Sales_Donny.pdb
